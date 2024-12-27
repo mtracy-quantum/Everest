@@ -6,7 +6,7 @@
 > In 1924 Mallory was thirty-eight, a married schoolmaster with three young children.
 
 ### The Facts
-Mallory was born June 18, 1886 making him 37 at the time of his death.
+Mallory was born June 18, 1886, making him 37 at the time of his death.
 
 ### Analysis
 Basic fact checking not performed.
@@ -26,13 +26,13 @@ According to **The Himalayan Database**, Fischbeck is recorded as having **four 
 - **1995**: Highest point reached: Balcony.  
 
 > Fischbeck ran out of oxygen below South Summit and turned back, so his pal Kerr (who had summited before) also turned back. Fischbeck moving fairly slowly and would have difficult to get him to summit. All slept at C4 again and on 14th to C2.
-- Fischbeck's date of birth is reported as 1939 and he is reported as being 57 years old at the time of the 1996 attempt.  He was reported as 53 at the time of his first attempt in 1992.
+- Fischbeck's date of birth is reported as 1939, and he is reported as being 57 years old at the time of the 1996 attempt.  He was reported as 53 at the time of his first attempt in 1992.
 
 
 ### Discrepancy
-- Krakauer's stated age for Fischbeck is wrong.
+- Krakauer's stated age for Fischbeck is significantly different from that recorded in the Himalayan Database.
 - Krakauer states Fischbeck had three prior attempts on Everest.
-- The Himalayan Database contradicts this with four recorded prior attempts.
+- The Himalayan Database contradicts this, with four recorded prior attempts.
 - Krakauer states that Fischbeck reached the South Summit (330 vertical feet below the summit) in 1994.
 - The Himalayan Database contradicts this, recording Fischbeck’s highest point as **below the South Summit**, indicating he did not reach that landmark.
 
@@ -49,7 +49,7 @@ Failure to investigate: Krakauer did not look into whether Fischbeck and been tu
 > John Taske, at fifty-six the oldest member of our group, was an anesthesiologist from Brisbane who’d taken up climbing after retiring from the Australian army.
 
 ### The Facts
-According to **The Himalayan Database**, Taske's birthyear is recored as 1940. 
+According to **The Himalayan Database**, Taske's birth year is recorded as 1940. 
 According to Taske's CV, his birthday is May 7, 1940. (https://straskye.tripod.com/pages/documents/TaskeMilCV.pdf).  This made him 55 on March 31 -- the day in which Krakauer 
 is describing the ages of the various climbers. The statement that Taske was 56 at that time is inaccurate. 
 
@@ -59,3 +59,19 @@ As noted above, Fischbeck is reported as the oldest member of the expedition.
 Basic fact checking was not performed. 
 
 ---
+## Page 44: Michael Groom's Age
+
+### Krakauer's Claim
+
+>When I approached, Rob Hall introduced me to Mike Groom, the expedition’s third guide. A thirty-three-year-old Australian with carrot-colored hair and the lean build of a marathon runner, Groom was a Brisbane plumber who worked as a guide only occasionally.
+
+### The Facts
+According to Himalayan Database and Groom's book, Sheer Will, Groom was born in 1959.  See Sheer Will, p.339 "If I were going to climb Makalu then I wanted to do it in the year that I turned 40 -- 1999 was that year."  Himalayan Database lists him has 36 for the 1996 climb. 
+
+### Analysis
+Basic fact checking not performed.
+
+---
+
+
+
