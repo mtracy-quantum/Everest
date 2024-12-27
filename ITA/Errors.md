@@ -1,5 +1,7 @@
 # Factual Errors in *Into Thin Air* by Jon Krakauer
 
+Note: Page numbers are from Kindle Edition. 
+
 ## Page 15: Mallory's Age
 
 ### Krakauer's Claim
@@ -59,7 +61,7 @@ As noted above, Fischbeck is reported as the oldest member of the expedition.
 Basic fact checking was not performed. 
 
 ---
-## Page 44: Michael Groom's Age
+## Page 47: Michael Groom's Age
 
 ### Krakauer's Claim
 
