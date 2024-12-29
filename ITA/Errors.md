@@ -197,3 +197,23 @@ This inconsistency suggests a lack of internal coherence within the narrative. B
 
 ---
 
+## Page 302: The Ladakhis' Turnaround Point
+
+### Krakauer's Claim
+> In truth, the Ladakhis were at 28,550 feet when they turned around, about two hours below the actual summit, which at that time still jutted above the highest clouds. The fact that they unwittingly stopped some 500 feet short of their goal explains why they didn’t see Hansen, Hall, or Lopsang on top, and vice versa.  
+
+### The Facts
+From the Japenese account, the Ladakhis turned around at what is commonly referred to as the "false summit," located at approximately **28,840 feet**, not 28,550 feet.  
+- The **false summit** is approximately **100 feet below the true summit**, not 500 feet as Krakauer claims.
+- 28,550 is roughly the top of the Third Step "Chalie" location. 
+- The estimated time from the false summit to the true summit is **20-40 minutes** for climbers in optimal conditions, **not two hours** as stated by Krakauer.
+
+### Discrepancy
+- Krakauer provides an altitude for the Ladakhis' turnaround point that is **290 feet lower** than the actual location of the false summit.  
+- Krakauer overstates the time required to reach the summit from the false summit by over **1.5 hours**.  
+- These inaccuracies lead to confusion about the Ladakhis’ position and their proximity to the summit.
+
+### Analysis
+Krakauer's errors in altitude and timing likely arose from secondhand or imprecise information. While the discrepancies do not fundamentally alter the narrative of the Ladakhis' decision to turn back, they significantly misrepresent their actual progress. Given the importance of precision in a high-stakes account like *Into Thin Air*, these inaccuracies detract from the reliability of Krakauer’s reporting.
+
+
