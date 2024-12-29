@@ -205,12 +205,12 @@ This inconsistency suggests a lack of internal coherence within the narrative. B
 ### The Facts
 From the Japenese account, the Ladakhis turned around at what is commonly referred to as the "false summit," located at approximately **28,840 feet**, not 28,550 feet.  
 - The **false summit** is approximately **100 feet below the true summit**, not 500 feet as Krakauer claims.
-- 28,550 is roughly the top of the Third Step "Chalie" location. 
+- 28,550 is roughly the top of the Third Step "Charlie" location. 
 - The estimated time from the false summit to the true summit is **20-40 minutes** for climbers in optimal conditions, **not two hours** as stated by Krakauer.
 
 ### Discrepancy
 - Krakauer provides an altitude for the Ladakhis' turnaround point that is **290 feet lower** than the actual location of the false summit.  
-- Krakauer overstates the time required to reach the summit from the false summit by over **1.5 hours**.  
+- Krakauer overstates the time required to reach the summit from the false summit by **1.5 hours**.  
 - These inaccuracies lead to confusion about the Ladakhis’ position and their proximity to the summit.
 
 ### Analysis
