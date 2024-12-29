@@ -177,6 +177,31 @@ This overstatement inflates the number of Sherpa who summited, misrepresenting t
 
 ---
 
+## Page 286-287: 1996 Everest Fatalities and Historical Comparisons
+
+### Krakauer's Claim
+> In fact, the murderous outcome of 1996 was in many ways simply business as usual. Although a record number of people died in the spring climbing season on Everest, the 12 fatalities amounted to only 3 percent of the 398 climbers who ascended higher than Base Camp—which is actually slightly below the historical fatality rate of 3.3 percent.  
+
+### The Facts
+Krakauer's statistical analysis is incorrect due to limitations in the data available at the time. In 1996-1997, the Himalayan Database was still in development and had not undergone the rigorous data cleaning and analysis that would be completed years later. Today, with access to a cleaned and updated Himalayan Database, the following corrected statistics are available:
+- The **fatality rate for 1996** was **4.1%**, compared to the **historical average of 2.7%**.  
+- The **1996 season was the third deadliest on record** (when excluding avalanche years and low-climber seasons), marking it as an extraordinarily deadly year.  
+- For **Western climbers and Sherpa separately** (as analyzed in the 2003 American Alpine Journal):
+  - Historical average fatality rate: **1.7%**  
+  - 1996 Spring fatality rate: **4.4%**
+
+### Discrepancy
+- Krakauer claims the 1996 fatality rate was 3%, slightly below the historical average of 3.3%.
+- Correct data shows the 1996 fatality rate was **4.1%, significantly above the historical average** of 2.7%.  
+- Krakauer’s description of 1996 as "business as usual" is inconsistent with corrected analyses, which indicate that 1996 was one of the deadliest years in Everest's history.
+
+### Analysis
+The errors in Krakauer's analysis stem from the limitations of the dataset available at the time, which was incomplete and unrefined. The Himalayan Database, as we know it today, did not reach a reliable state until 2003 after extensive data cleaning and organization by Richard Salisbury and others. Krakauer’s reliance on preliminary data resulted in an inaccurate portrayal of the 1996 season.
+
+The corrected data demonstrates that 1996 was an **exceptionally deadly year**, not "business as usual," as Krakauer claimed. This highlights the importance of using robust, validated data for historical analysis. Krakauer’s interpretation underestimates the statistical anomaly of the 1996 season and its significance in Everest’s climbing history.
+
+---
+
 
 ## Page 296: Ang Dorje and Lhakpa's Climb
 
