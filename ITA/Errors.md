@@ -149,11 +149,15 @@ This error demonstrates a misunderstanding of standard practices in high-altitud
 ### Contradictory Statement
 >Three hours earlier, when I’d attached my regulator to my third and last oxygen canister, I’d noticed that the gauge indicated that the bottle was only half full.
 > Krakauer, Jon. *Into Thin Air* (p. 243).
+>
+> I ran out of oxygen. Someone stole the third of my three oxygen bottles.
+>Krakauer, Jon, *An Evening with Jon Krakauer"  https://soundcloud.com/coloradocollege/an-evening-with-jon-krakauer 29:13
 
 ### Discrepancy
 - On Page 237, Krakauer describes grabbing a "new oxygen canister" to replace his depleted supply.
 - On Page 243, Krakauer acknowledges that his "third and last oxygen canister" was already half empty when he attached it.
-
+- Krakauer confirmed in a later talk given in 2016 that there was oxygen bottle theft at South Summit
+- 
 ### Analysis
 This inconsistency undermines the reliability of Krakauer's account. It raises questions about the availability of oxygen at critical moments and whether the actions described align with the physical resources present during the expedition.
 
