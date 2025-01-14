@@ -1,0 +1,286 @@
+# Photo Credits by Photographer (Alphabetical Order)
+
+- **Alain Desez**: 7, 71, 100, 120, 135, 164–165, 205, 257, 302, 320, 319, 325, 331, 337, 340, 373  
+- **Andrew Harvard/National Geographic Society**: 148  
+- **AP/Wide World Photos**: 88  
+- **Audrey Salkeld Collection**: 19 (top), 19 (bottom), 20, 114 (bottom), 116, 313  
+- **Barry S. Bishop/National Geographic Society**: 21  
+- **Bernard Prudhomme**: 18, 59, 287, 312, 358, 372  
+- **Bruce Herrod**: 362  
+- **Bruce Klepinger/Adventure Photo**: 256  
+- **Caroline Mackenzie/Woodfin Camp Associates**: 41, 53, 96, 106, 108 (top), 204 (bottom), 277, 283, 323, 369  
+- **Chantal Mauduit**: 134 (top), 216  
+- **Collection Editions Guérin**: 15, 17, 43, 44, 45, 60, 82, 124, 142 (top), 201, 311  
+- **Collection Michel Pellé**: 28  
+- **Collection Terres D'Evasion**: 170 (top), 203, 330  
+- **David Trione**: 29  
+- **Ed Viesturs**: 284  
+- **Ed Viesturs from *Men's Journal*, May 1997, by Straight Arrow Publishers Company, all rights reserved, reprinted by permission**: 276  
+- **Elie Hanoteau**: 32, 39, 46, 61, 63, 64, 68, 69, 75  
+- **Fondation Suisse pour l'Exploration Alpine**: 114 (top), 335  
+- **Galen Rowell/Mountain Light**: 70, 127, 310, 404, 393  
+- **Gudrun Bergdahl**: 38, 53, 102, 134 (bottom), 363  
+- **Hervé Thivierge**: 78, 87, 349  
+- **Jane Bromet**: 123, 151, 185 (bottom), 382  
+- **Joe Catellani**: 368  
+- **Jon Krakauer**: ii–iii, 6, 8, 9, 10, 22, 30, 31, 56, 57, 65, 79, 89, 90, 105, 108 (bottom), 109, 122, 128, 133, 137,
+- 138, 158, 159, 175, 176, 178, 179, 180, 189, 195, 200, 209, 212, 213, 214, 220, 221, 223, 230, 231, 232, 234, 239, 247, 248, 254, 258, 272, 294, 297, 305, 343, 354  
+- **Jon Krakauer Collection**: 26  
+- **Klev Schoening**: 76, 103, 107, 141, 143 (bottom), 161, 182, 196, 237, 275, 387, 398  
+- **Leo Dickinson**: 202  
+- **Linda Moore**: 409  
+- **Lou Kasischke**: 54  
+- **M. Colbeck, Earth Scenes**: 246  
+- **Mason Collection**: 255  
+- **Montagnes magazine**: 357  
+- **Neal Beidleman/Woodfin Camp Associates**: 11, 80 (top), 81, 117, 118 (bottom), 136, 139, 140, 147, 149, 153, 169 (top), 169 (bottom), 170 (bottom), 171, 185, 190, 197, 218, 224, 229, 238, 250, 264, 265, 266, 268, 291, 348, 350, 353, 356, 371, 379  
+- **Ned Gillette/Adventure Photo**: Endpapers  
+- **Outside magazine, Mariah Publications Corporation, reprinted by permission**: 286  
+- **Pascal Tournaire**: 77, 97, 101, 162, 163, 166, 168, 181, 241, 279, 314, 347, 361, 375  
+- **Pete Schoening**: 118 (top), 119, 150, 232 (bottom), 288  
+- **Photosouth**: 40  
+- **Scott Fischer/Woodfin Camp Associates**: 10, 80 (bottom), 84, 85, 104, 149, 184, 190, 235, 240, 269, 270, 293, 360, 385  
+- **T. Kelly/Woodfin Camp Associates**: 338, 339, 342, 351  
+- **Thomas Ambercrombie/National Geographic Society**: 24  
+- **Thomas Hornbein Collection**: 25  
+- **Time Inc., reprinted by permission**: 21, 359  
+- **Warner Books**: 27  
+
+
+
+
+
+# Photo Credits by Page
+
+- **ii–iii**: Jon Krakauer  
+- **6**: Jon Krakauer  
+- **7**: Alain Desez  
+- **8**: Jon Krakauer  
+- **9**: Jon Krakauer  
+- **10**: Scott Fischer/Woodfin Camp Associates, Jon Krakauer  
+- **11**: Neal Beidleman/Woodfin Camp Associates  
+- **15**: Collection Editions Guérin  
+- **17**: Collection Editions Guérin  
+- **18**: Bernard Prudhomme  
+- **19 (top)**: Audrey Salkeld Collection  
+- **19 (bottom)**: Audrey Salkeld Collection  
+- **20**: Audrey Salkeld Collection  
+- **21**: Barry S. Bishop/National Geographic Society, Time Inc.  
+- **22**: Jon Krakauer  
+- **24**: Thomas Ambercrombie/National Geographic Society  
+- **25**: Thomas Hornbein Collection  
+- **26**: Jon Krakauer Collection  
+- **27**: Warner Books  
+- **28**: Collection Michel Pellé  
+- **29**: David Trione  
+- **30**: Jon Krakauer  
+- **31**: Jon Krakauer  
+- **32**: Elie Hanoteau  
+- **38**: Gudrun Bergdahl  
+- **39**: Elie Hanoteau  
+- **40**: Photosouth  
+- **41**: Caroline Mackenzie/Woodfin Camp Associates  
+- **43**: Collection Editions Guérin  
+- **44**: Collection Editions Guérin  
+- **45**: Collection Editions Guérin  
+- **46**: Elie Hanoteau  
+- **53**: Gudrun Bergdahl, Caroline Mackenzie/Woodfin Camp Associates  
+- **54**: Lou Kasischke  
+- **56**: Jon Krakauer  
+- **57**: Jon Krakauer  
+- **59**: Bernard Prudhomme  
+- **60**: Collection Editions Guérin  
+- **61**: Elie Hanoteau  
+- **63**: Elie Hanoteau  
+- **64**: Elie Hanoteau  
+- **65**: Jon Krakauer  
+- **68**: Elie Hanoteau  
+- **69**: Elie Hanoteau  
+- **70**: Galen Rowell/Mountain Light  
+- **71**: Alain Desez  
+- **75**: Elie Hanoteau  
+- **76**: Klev Schoening  
+- **77**: Pascal Tournaire  
+- **78**: Hervé Thivierge  
+- **79**: Jon Krakauer  
+- **80 (top)**: Neal Beidleman/Woodfin Camp Associates  
+- **80 (bottom)**: Scott Fischer/Woodfin Camp Associates  
+- **81**: Neal Beidleman/Woodfin Camp Associates  
+- **82**: Collection Editions Guérin  
+- **84**: Scott Fischer/Woodfin Camp Associates  
+- **85**: Scott Fischer/Woodfin Camp Associates  
+- **87**: Hervé Thivierge  
+- **88**: AP/Wide World Photos  
+- **89**: Jon Krakauer  
+- **90**: Jon Krakauer  
+- **96**: Caroline Mackenzie/Woodfin Camp Associates  
+- **97**: Pascal Tournaire  
+- **100**: Alain Desez  
+- **101**: Pascal Tournaire  
+- **102**: Gudrun Bergdahl  
+- **103**: Klev Schoening  
+- **104**: Scott Fischer/Woodfin Camp Associates  
+- **105**: Jon Krakauer  
+- **106**: Caroline Mackenzie/Woodfin Camp Associates  
+- **107**: Klev Schoening  
+- **108 (top)**: Caroline Mackenzie/Woodfin Camp Associates  
+- **108 (bottom)**: Jon Krakauer  
+- **109**: Jon Krakauer  
+- **114 (top)**: Fondation Suisse pour l'Exploration Alpine  
+- **114 (bottom)**: Audrey Salkeld Collection  
+- **116**: Audrey Salkeld Collection  
+- **117**: Neal Beidleman/Woodfin Camp Associates  
+- **118 (top)**: Pete Schoening  
+- **118 (bottom)**: Neal Beidleman/Woodfin Camp Associates  
+- **119**: Pete Schoening  
+- **120**: Alain Desez  
+- **122**: Jon Krakauer  
+- **123**: Jane Bromet  
+- **124**: Collection Editions Guérin  
+- **127**: Galen Rowell/Mountain Light  
+- **128**: Jon Krakauer  
+- **133**: Jon Krakauer  
+- **134 (top)**: Chantal Mauduit  
+- **134 (bottom)**: Gudrun Bergdahl  
+- **135**: Alain Desez  
+- **136**: Neal Beidleman/Woodfin Camp Associates  
+- **137**: Jon Krakauer  
+- **138**: Jon Krakauer  
+- **139**: Neal Beidleman/Woodfin Camp Associates  
+- **140**: Neal Beidleman/Woodfin Camp Associates  
+- **141**: Klev Schoening  
+- **142 (top)**: Collection Editions Guérin  
+- **143 (bottom)**: Klev Schoening  
+- **147**: Neal Beidleman/Woodfin Camp Associates  
+- **148**: Andrew Harvard/National Geographic Society  
+- **149**: Neal Beidleman/Woodfin Camp Associates, Scott Fischer/Woodfin Camp Associates  
+- **150**: Pete Schoening  
+- **151**: Jane Bromet  
+- **153**: Neal Beidleman/Woodfin Camp Associates  
+- **158**: Jon Krakauer  
+- **159**: Jon Krakauer  
+- **161**: Klev Schoening  
+- **162**: Pascal Tournaire  
+- **163**: Pascal Tournaire  
+- **164–165**: Alain Desez  
+- **166**: Pascal Tournaire  
+- **168**: Pascal Tournaire  
+- **169 (top)**: Neal Beidleman/Woodfin Camp Associates  
+- **169 (bottom)**: Neal Beidleman/Woodfin Camp Associates  
+- **170 (top)**: Collection Terres D'Evasion  
+- **170 (bottom)**: Neal Beidleman/Woodfin Camp Associates  
+- **171**: Neal Beidleman/Woodfin Camp Associates  
+- **175**: Jon Krakauer  
+- **176**: Jon Krakauer  
+- **178**: Jon Krakauer  
+- **179**: Jon Krakauer  
+- **180**: Jon Krakauer  
+- **181**: Pascal Tournaire  
+- **182**: Klev Schoening  
+- **184**: Scott Fischer/Woodfin Camp Associates  
+- **185 (top)**: Neal Beidleman/Woodfin Camp Associates  
+- **185 (bottom)**: Jane Bromet  
+- **189**: Jon Krakauer  
+- **190**: Neal Beidleman/Woodfin Camp Associates, Scott Fischer/Woodfin Camp Associates  
+- **195**: Jon Krakauer  
+- **196**: Klev Schoening  
+- **197**: Neal Beidleman/Woodfin Camp Associates  
+- **200**: Jon Krakauer  
+- **201**: Collection Editions Guérin  
+- **202**: Leo Dickinson  
+- **203**: Collection Terres D'Evasion  
+- **204 (bottom)**: Caroline Mackenzie/Woodfin Camp Associates  
+- **205**: Alain Desez  
+- **209**: Jon Krakauer  
+- **212**: Jon Krakauer  
+- **213**: Jon Krakauer  
+- **214**: Jon Krakauer  
+- **216**: Chantal Mauduit  
+- **218**: Neal Beidleman/Woodfin Camp Associates  
+- **220**: Jon Krakauer  
+- **221**: Jon Krakauer  
+- **223**: Jon Krakauer  
+- **224**: Neal Beidleman/Woodfin Camp Associates  
+- **229**: Neal Beidleman/Woodfin Camp Associates 
+- **230**: Jon Krakauer  
+- **231**: Jon Krakauer  
+- **232 (bottom)**: Pete Schoening  
+- **234**: Jon Krakauer  
+- **235**: Scott Fischer/Woodfin Camp Associates  
+- **237**: Klev Schoening  
+- **238**: Neal Beidleman/Woodfin Camp Associates  
+- **239**: Jon Krakauer  
+- **240**: Scott Fischer/Woodfin Camp Associates  
+- **241**: Pascal Tournaire  
+- **246**: M. Colbeck, Earth Scenes  
+- **247**: Jon Krakauer  
+- **248**: Jon Krakauer  
+- **250**: Neal Beidleman/Woodfin Camp Associates  
+- **254**: Jon Krakauer  
+- **255**: Mason Collection  
+- **256**: Bruce Klepinger/Adventure Photo  
+- **257**: Alain Desez  
+- **258**: Jon Krakauer  
+- **264**: Neal Beidleman/Woodfin Camp Associates  
+- **265**: Neal Beidleman/Woodfin Camp Associates  
+- **266**: Neal Beidleman/Woodfin Camp Associates  
+- **268**: Neal Beidleman/Woodfin Camp Associates  
+- **269**: Scott Fischer/Woodfin Camp Associates  
+- **270**: Scott Fischer/Woodfin Camp Associates  
+- **272**: Jon Krakauer  
+- **275**: Klev Schoening  
+- **276**: Ed Viesturs from *Men's Journal*, May 1997, by Straight Arrow Publishers Company, reprinted by permission  
+- **277**: Caroline Mackenzie/Woodfin Camp Associates  
+- **279**: Pascal Tournaire  
+- **283**: Caroline Mackenzie/Woodfin Camp Associates  
+- **284**: Ed Viesturs  
+- **286**: Outside magazine, Mariah Publications Corporation, reprinted by permission  
+- **287**: Bernard Prudhomme  
+- **288**: Pete Schoening  
+- **291**: Neal Beidleman/Woodfin Camp Associates  
+- **293**: Scott Fischer/Woodfin Camp Associates  
+- **294**: Jon Krakauer  
+- **297**: Jon Krakauer  
+- **302**: Alain Desez  
+- **310**: Galen Rowell/Mountain Light  
+- **311**: Collection Editions Guérin  
+- **312**: Bernard Prudhomme  
+- **313**: Audrey Salkeld Collection  
+- **314**: Pascal Tournaire  
+- **320**: Alain Desez  
+- **323**: Caroline Mackenzie/Woodfin Camp Associates  
+- **325**: Alain Desez  
+- **330**: Collection Terres D'Evasion  
+- **331**: Alain Desez  
+- **335**: Fondation Suisse pour l'Exploration Alpine  
+- **337**: Alain Desez  
+- **338**: T. Kelly/Woodfin Camp Associates  
+- **339**: T. Kelly/Woodfin Camp Associates  
+- **340**: Alain Desez  
+- **342**: T. Kelly/Woodfin Camp Associates  
+- **343**: Jon Krakauer  
+- **347**: Pascal Tournaire  
+- **348**: Neal Beidleman/Woodfin Camp Associates  
+- **349**: Hervé Thivierge  
+- **350**: Neal Beidleman/Woodfin Camp Associates  
+- **351**: T. Kelly/Woodfin Camp Associates  
+- **353**: Neal Beidleman/Woodfin Camp Associates  
+- **354**: Jon Krakauer  
+- **356**: Neal Beidleman/Woodfin Camp Associates  
+- **357**: Montagnes magazine  
+- **358**: Bernard Prudhomme  
+- **359**: Time Inc., reprinted by permission  
+- **360**: Scott Fischer/Woodfin Camp Associates  
+- **361**: Pascal Tournaire  
+- **362**: Bruce Herrod  
+- **363**: Gudrun Bergdahl  
+- **369**: Caroline Mackenzie/Woodfin Camp Associates  
+- **371**: Neal Beidleman/Woodfin Camp Associates  
+- **372**: Bernard Prudhomme  
+- **373**: Alain Desez  
+- **375**: Pascal Tournaire  
+- **379**: Neal Beidleman/Woodfin Camp Associates  
+- **387**: Klev Schoening  
+- **393**: Galen Rowell/Mountain Light  
+- **404**: Galen Rowell/Mountain Light  
+- **409**: Linda Moore  
