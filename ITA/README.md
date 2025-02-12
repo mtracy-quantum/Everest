@@ -26,3 +26,5 @@ It does not seem that readers misunderstood Krakauer’s book because he was "an
 
 The link above to the 2016 presentation is the edited online verstion.  I have reached out to the reporter to ask if she has the full recording and to verify the quotation that Krakauer "publicly falsified the story."  I have not heard back.
 
+Krakauer has denied that he said he "publicly falsified the story."  https://jonkrakauer.medium.com/the-youtuber-on-a-mission-to-trash-my-book-chapter-six-c76201c2b9ba
+
