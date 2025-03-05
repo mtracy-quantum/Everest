@@ -29,6 +29,11 @@ Note: Page numbers are from the Kindle edition.
 | **Charlotte Fox’s Statement Omitted (*American Alpine Journal*) (She stated she wanted to descend, but Beidleman kept group together)** | *(Omitted from *Into Thin Air*.)* | **Not acknowledged yet.** |
 | **Planned Stunt on the Summit (Krakauer admitted a stunt was planned but claims it was irrelevant)** | *(Omitted from *Into Thin Air*.)* | **Acknowledged and disputed.** |
 | **Mallory's Age (37, not 38)** | *"In 1924 Mallory was thirty-eight, a married schoolmaster with three young children."* (p. 15) | **Acknowledged and corrected.** |
+| **Altered Quote – Turnaround Time (Removed “dictated by Rob”)** | *"Around 11:00, Hall told Hutchison and Taske that the top was still three hours away, and then he sprinted to try and get past the Taiwanese. 'It seemed increasingly unlikely that we would have any chance of summitting before the one P.M. turn-around time,' says Hutchison."* (p. 225)  **Original:** *"It seemed increasingly unlikely that we would have any chance of summiting before the 1 P.M. turn-around time dictated by Rob."* | **Not acknowledged yet.** |
+| **Kasischke’s Turnaround Decision (Misrepresents sequence of events)** | *"A brief discussion ensued. Kasischke was initially reluctant to concede defeat, but Taske and Hutchison were persuasive. At 11:30, the three men turned their backs on the summit and headed down, and Hall sent Sherpas Kami and Lhakpa Chhiri down with them."* (pp. 225-226)  *Kasischke turned around after Taske and Hutchison based on his own decision, not due to persuasion.* **No evidence Hall sent Sherpas down at that time; they were delivering oxygen to South Summit.** | **Not acknowledged yet.** |
+
+This ensures the record reflects the available evidence regarding the Sherpas’ activities and clarifies Kasischke's actual decision-making process. Let me know if you'd like any refinements!
+This keeps the alteration clear and concise in one row. Let me know if you'd like any more refinements!
 
 ---
 ### **Why Makalu Gau’s Summit Time is Important to the Oxygen Theft Issue**
