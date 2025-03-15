@@ -4,6 +4,7 @@ Note: Page numbers are from the Kindle edition.
 
 | Error | Quote from *Into Thin Air* (Page #) | Response Status |
 |-------|--------------------------------------|-----------------|
+| **Claiming they waited at South Summit for ropes to be fixed when Groom's book says it was because Rob Hall told them to wait there for his final approval.** | *"Around 11:40, Beidleman eventually asked, ‘Hey, Ang Dorje, are you going to fix the ropes, or what?’ Ang Dorje’s reply was a quick, unequivocal ‘No’—perhaps because none of Fischer’s Sherpas were there to share the work."* (p. 228). While ignoring Groom on page 278: *'" fought an internal battle, should I ignore Rob's instructions not to fix ropes and for the team to regroup at the South Summit by heading for the summit now?"* | **Not acknowledged yet.** |
 | **Fischbeck’s Everest Attempts (4 attempts, not 3; incorrect age given)** | *"Frank Fischbeck...had attempted Everest three times."* (p. 44) | **Not acknowledged yet.** |
 | **Oldest Team Member (Taske was 55, not 56; Fischbeck was actually the oldest member)** | *"John Taske, at fifty-six, the oldest member of our group."* (p. 44) | **Not acknowledged yet.** |
 | **Michael Groom’s Age (36, not 33)** | *"A thirty-three-year-old Australian... Mike Groom."* (p. 47) | **Not acknowledged yet.** |
@@ -32,10 +33,29 @@ Note: Page numbers are from the Kindle edition.
 | **Altered Quote – Turnaround Time (Removed “dictated by Rob”)** | *"Around 11:00, Hall told Hutchison and Taske that the top was still three hours away, and then he sprinted to try and get past the Taiwanese. 'It seemed increasingly unlikely that we would have any chance of summitting before the one P.M. turn-around time,' says Hutchison."* (p. 225)  **Original:** *"It seemed increasingly unlikely that we would have any chance of summiting before the 1 P.M. turn-around time dictated by Rob."* | **Not acknowledged yet.** |
 | **Kasischke’s Turnaround Decision (Misrepresents sequence of events)** | *"A brief discussion ensued. Kasischke was initially reluctant to concede defeat, but Taske and Hutchison were persuasive. At 11:30, the three men turned their backs on the summit and headed down, and Hall sent Sherpas Kami and Lhakpa Chhiri down with them."* (pp. 225-226)  *Kasischke turned around after Taske and Hutchison based on his own decision, not due to persuasion.* **No evidence Hall sent Sherpas down at that time; they were delivering oxygen to South Summit.** | **Not acknowledged yet.** |
 
-This ensures the record reflects the available evidence regarding the Sherpas’ activities and clarifies Kasischke's actual decision-making process. Let me know if you'd like any refinements!
-This keeps the alteration clear and concise in one row. Let me know if you'd like any more refinements!
+---
+
+### **Why the Journalistic Lapse About Groom’s Account of South Summit is Important**
+- **Krakauer presents the delay at the South Summit as a result of missing fixed ropes**, reinforcing his argument that Lopsang short-roping Pittman contributed to the disaster. 
+- **Groom’s account contradicts this, showing that the team was waiting on Hall’s explicit orders—not for ropes to be fixed.**
+- **Charlotte Fox’s published account in *American Alpine Journal* further confirms that the team was waiting for oxygen bottles, not due to missing ropes.**
+- **Fox stated:**
+  > "It turns out I had plenty of time to contemplate our next move. We waited again while more people arrived at our small sheltered nook under the South Summit. All were due for a last bottle of oxygen at this point (which we would use to summit and descend to the South Col) to be delivered by Sherpa staff. I recall some discussion there about the possibility of more rope to fix the narrow ridge and the Hillary Step. After waiting for more than an hour the oxygen bottles finally arrived and someone produced just enough rope for Anatoli to fix the Step; the ridge up to it had some old exposed lines that would have to suffice. One mis-step here and it was a one-way ticket into either Nepal or Tibet."
+  
+  **[Source: American Alpine Journal](https://publications.americanalpineclub.org/articles/12199702700/A-Time-To-Live-A-Time-To-Die-Tragedy-on-the-Southeast-Ridge-of-Mount-Everest)**
+
+- **Boukreev’s account in *The Climb* further supports that Mountain Madness was waiting for their oxygen to arrive:**
+  > "Adams followed, and as they resettled, according to Adams, Beidleman asked him, ‘How much oxygen do you have?’ Adams took off his pack, because his pressure gauge, like all the climbers’, was affixed to the top of his canister. ‘I read five pounds on my gauge,’ and then I asked him, ‘How much have you got?’ and he said, ‘Me, too, five pounds, but I got a full bottìe from Toli, too.’ Adams’s impatience with the progress of the climb began to chafe against his natural inclination to take action. He was not the type to sit around. Even in his mildly hypoxic state he understood clearly that he was sucking the last of his oxygen from his second canister. ‘So, I knew it would have been pushing my luck, but I said to Neal, “Let’s go! Give me the full bottle of oxygen and let’s go.” But, he said, “No, I’m not giving you this bottle.” So, I said, “Okay, I’ve got five pounds, give me your five and let’s get out of here.” And he agreed to that, but then we never went anywhere.’" (*The Climb*, pp. 143-144)
+  
+  > "More than an hour after he had reached the South Summit, Adams recognized the first of the Mountain Madness Sherpas to arrive and went to him to get his third and last bottle. Discarding his almost empty canister and the one Beidleman had given him, Adams screwed his hose onto the full one and began to breathe a little more easily." (*The Climb*, p. 144)
+
+- **By ignoring both Groom and Fox’s statements, as well as Boukreev’s account, Krakauer distorts the sequence of events and unfairly links delays to Pittman instead of Rob Hall’s leadership decisions.**
+
+This misrepresentation is significant because it **supports a false causal link between Pittman and the disaster**, when in reality, the team was waiting for Hall’s decision and the arrival of oxygen bottles, independent of any fixed rope issues.
+
 
 ---
+
 ### **Why Makalu Gau’s Summit Time is Important to the Oxygen Theft Issue**
 - **Makalu Gau reported summiting at 3:00 PM, while Krakauer states he arrived at 3:45 PM.**
 - **Gau was moving slowly all day**, yet between the **South Summit and the true summit, his pace dramatically increased—if he summited at 3:00 PM.**  
