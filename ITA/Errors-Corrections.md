@@ -58,7 +58,7 @@ Note: Page numbers are from the Kindle edition.
 ### **Why the Journalistic Lapse About Groom’s Account of South Summit is Important**
 - **Krakauer presents the delay at the South Summit as a result of missing fixed ropes**, reinforcing his argument that Lopsang short-roping Pittman contributed to the disaster. 
 - **Groom’s account contradicts this, showing that the team was waiting on Hall’s explicit orders—not for ropes to be fixed.**
-- **Charlotte Fox’s published account in *American Alpine Journal* further confirms that the team was waiting for oxygen bottles, not due to missing ropes.**
+- **Charlotte Fox’s published account in *American Alpine Journal* further confirms that the Mountain Madness team was waiting for oxygen bottles, not due to missing ropes.**
 - **Fox stated:**
   > "It turns out I had plenty of time to contemplate our next move. We waited again while more people arrived at our small sheltered nook under the South Summit. All were due for a last bottle of oxygen at this point (which we would use to summit and descend to the South Col) to be delivered by Sherpa staff. I recall some discussion there about the possibility of more rope to fix the narrow ridge and the Hillary Step. After waiting for more than an hour the oxygen bottles finally arrived and someone produced just enough rope for Anatoli to fix the Step; the ridge up to it had some old exposed lines that would have to suffice. One mis-step here and it was a one-way ticket into either Nepal or Tibet."
   
