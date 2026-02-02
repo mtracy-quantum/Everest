@@ -125,7 +125,7 @@ Whether Doug Hansen reached the summit of Everest on May 10, 1996 remains unconf
 
 Photographs, timings, and Sherpa testimony all suggest Hansen was moving too slowly above the Hillary Step to realistically reach the summit and return by the time of Rob Hall’s 4:30 and 4:41 radio calls. The famous 3:20 Beidleman photo shows Hansen clipped into a fixed rope far below the summit, and his pace makes a summit highly unlikely. While it is possible Hall encouraged Hansen upward, the evidence supports that he stalled before the top. Krakauer’s choice to present Hansen’s summit as fact—without proof while ignoring or altering Sherpa statements about the events they personally witnessed—reflects a larger journalistic lapse. 
 
-Hansen had a flag made by the elementry school he was climbing for that he was supposed to leave on the summit. Subsequnet photographs from that same year show no such flag on the summit though numerous other flags were added by other climbers. This could mean that Hansen was simply to tired to leave it or that it was blown off. But it also means that the most obvious way to provde he made the summit -- the flag attached to the pole on the summit, does not exist. 
+Hansen had a flag made by the elementary school he was climbing for that he was supposed to leave on the summit. Subsequent photographs from that same year show no such flag on the summit though numerous other flags were added by other climbers. This could mean that Hansen was simply to tired to leave it or that it was blown off. But it also means that the most obvious way to prove he made the summit - the flag attached to the pole on the summit, does not exist.
 
 
 ---
